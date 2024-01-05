@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name='height'>Altura</string>
+    <string name='weight'>Peso</string>
+    <string name='age'>Edad</string>
+    <string name='calculator'>Calcular</string>
+    <string name='result'>Tu resultado</string>
+    <string name='re_calculate'>Re-calcular</string>
+    <string name='low'>Bajo peso</string>
+    <string name='lowWeight'>Se encuentra dentro del rango de peso insuficiente.</string>
+    <string name='normal'>Normal</string>
+    <string name='normalWeight'>Se encuentra dentro del rango de peso normal o saludable.</string>
+    <string name="high">Sobrepeso</string>
+    <string name='highWeight'>Se encuentra dentro del rango de sobrepeso.</string>
+    <string name='veryhigh'>Obesidad</string>
+    <string name='veryHighWeight'>Se encuentra dentro del rango de obesidad.</string>
+    <string name='calories'>Calorias</string>
+
+
+
+    <string name='error'>error</string>
+</resources>
